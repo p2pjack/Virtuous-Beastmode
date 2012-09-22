@@ -1,7 +1,9 @@
 Virtuous-Beastmode
 ==================
 
-A mix of Virtuous 3.0 + BeastMode V1.5Linux kernel release 3.x <http://kernel.org/>
+A mix of Virtuous 3.0 + BeastMode V1.5
+
+Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
 as they tell you what this is all about, explain how to install the
